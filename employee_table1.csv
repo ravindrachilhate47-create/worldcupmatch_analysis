@@ -1,0 +1,21 @@
+Customer_ID, First_Name, Last_Name, Age, Email                 , Phone     , City      , Gender , Department, Job_Title , Salary       , Payment_Amount, Payment_Method, Purchase_Date, Rating, Status
+EMP001     , Anjali    , Jain     , 46 , anjalijain@gmailcom   , 8314829375, LUCKNOW   , maleale, Legal     , Team lead , 52000        , 1404668       , CREDIT CARD   , 2024-05-02   ,      5, ACTIVE
+EMP002     , Rahul     , Sharma   , 29 , rahul.sharma@gmail.com, 9123456780, Delhi     , Male   , IT        , Developer , 48000        , 50000         , UPI           , 2023-12-12   ,      4, Active
+EMP003     ,           , Verma    , NaN, verma@gmail.com       , 8234567890, Mumbai    , Female , HR        , Manager   , 60000        , NaN           , Cash          , 2022-11-10   ,      5, ACTIVE
+EMP004     , Pooja     , Mehta    , 27 , pooja.mehta@gmail     , 8123456789, Indore    , FEMALE , Finance   , Analyst   , 45000        , 30000         , Debit Card    , 2024-01-15   ,       , Inactive
+EMP005     , Amit      , Singh    , 35 , amit@@gmail.com       , 9988776655, Delhi     , Male   , IT        , Developer , not_available, 70000         , CREDIT CARD   , 2021-09-09   ,      3, ACTIVE
+EMP006     , Sneha     ,          , 24 , sneha@gmail.com       , 7896541230, Bhopal    , Female , Marketing , Executive , 35000        , 25000         , UPI           , 2023-05-05   ,      4, Active
+EMP007     , Rohit     , Yadav    , NaN, rohit@gmail.com       , NaN       , Indore    , Male   , Sales     , Sales Exec, 30000        , 20000         , Cash          , 2022-08-08   ,      2, Inactive
+EMP008     , Kavita    , Joshi    , 31 , kavita@gmailcom       , 8456123789, Mumbai    , Female , HR        , Manager   , 58000        , 40000         , Debit Card    , 2020-03-03   ,      5, ACTIVE
+EMP009     , Arjun     , Kumar    , 45 , arjun@gmail.com       , 9123987654, Delhi     , m      , Management, Director  , 150000       , 1000000       , CREDIT CARD   , 2018-01-01   ,      5, ACTIVE
+EMP010     , Neha      , Shah     , 26 , neha@gmail.com        , 8234512398,           , Female , Finance   , Analyst   , 42000        , 35000         , UPI           , 2024-02-20   ,      4, Active
+EMP011     , Raj       , Patel    , 33 , raj@gmail.com         , 9988123456, Ahmedabad , Male   , IT        , Developer , 50000        , 45000         , Cash          , 2023-06-06   ,      3, ACTIVE
+EMP012     , Meena     , Gupta    , 28 , meenagupta@gmail.com  , 8899776655, Jaipur    , Female , HR        , Executive , 38000        , 30000         , UPI           , 2022-04-04   ,      4, Inactive
+EMP013     , Sunil     , Kumar    , 40 , sunil@gmail.com       , 7788996655, Delhi     , Male   , Finance   , Manager   , 70000        , 80000         , CREDIT CARD   , 2021-07-07   ,      5, ACTIVE
+EMP014     , Rekha     , Das      , NaN, rekha@gmail           , 6677889900, Kolkata   , Female , Marketing , Executive , 39000        , NaN           , Debit Card    , 2023-09-09   ,       , Active
+EMP015     , Ajay      , Singh    , 36 , ajay@gmail.com        , 5566778899, Lucknow   , Male   , Sales     , Manager   , 65000        , 60000         , Cash          , 2020-10-10   ,      4, ACTIVE
+EMP016     , Priya     , Sharma   , 25 , priya@gmail.com       , 4455667788, Delhi     , female , IT        , Developer , 42000        , 30000         , UPI           , 2024-03-03   ,      5, ACTIVE
+EMP017     , Karan     , Mehta    , 29 , karan@gmail           , 3344556677, Mumbai    , Male   , Finance   , Analyst   , 48000        , 35000         , CREDIT CARD   , 2022-06-06   ,      3, Inactive
+EMP018     , Tina      , Kapoor   , NaN, tina@gmail.com        , 2233445566, Delhi     , Female , HR        , Manager   , 55000        , 45000         , Debit Card    , 2021-08-08   ,      4, ACTIVE
+EMP019     , Vikas     , Yadav    , 38 , vikas@gmail.com       , 1122334455, Bhopal    , Male   , Sales     , Executive , 47000        , 40000         , Cash          , 2023-01-01   ,      2, Active
+EMP020     , Simran    , Kaur     , 27 , simran@gmail.com      , 9988771122, Chandigarh, Female , Marketing , Executive , 41000        , 35000         , UPI           , 2022-02-02   ,      5, ACTIVE

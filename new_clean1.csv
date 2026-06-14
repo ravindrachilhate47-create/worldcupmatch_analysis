@@ -1,0 +1,42 @@
+id , name  , age, gender, city  , salary       , join_date , department
+1  , Rahul , 25 , Male  , Bhopal, 35000        , 2021-05-12, Sales
+2  , Anita , 28 , Female, Indore, 42000        , 2020-03-15, HR
+3  , Vikram,    , Male  , Delhi , 50000        , 2019-07-23, IT
+4  , Neha  , 26 , Female,       , 38000        , 2022-01-10, Marketing
+5  , Amit  , 30 , Male  , Mumbai, not_available, 2018-11-05, Finance
+6  , Pooja , 27 , Female, Bhopal, 41000        ,           , HR
+7  , Rohit , 22 , Male  , Indore, 29000        , 2023-06-18, Sales
+8  , Kavita, 29 , Female, Delhi , 47000        , 2021-09-09, IT
+9  , Arjun , 35 , Male  , Mumbai, 800000       , 2017-04-01, Management
+10 , Sneha , 24 , Female, Bhopal, 32000        , 2022-12-12, Marketing
+11 , Rahul , 25 , Male  , Bhopal, 35000        , 2021-05-12, Sales
+12 , Deepak, 31 , Male  , Indore, 52000        , 2019-02-28, Finance
+13 , Meena , NaN, Female, Delhi , 45000        , 2020-08-17, HR
+14 , Suresh, 45 , Male  , Mumbai, 90000        , 2015-03-11, Management
+15 , Alok  , 29 , Male  , Bhopal,              , 2021-06-06, IT
+16 , Nidhi , 23 , Female, Indore, 30000        , 2023-01-20, Sales
+17 , Varun , 34 , Male  , Delhi , 60000        , 2018-10-10, Finance
+18 , Ritu  , 28 , Female, Mumbai, 48000        , 2020-05-05, HR
+19 , Manoj , NaN, Male  , Bhopal, 37000        , 2022-02-14, Sales
+20 , Simran, 26 , Female, Indore, 41000        , 2021-11-30, Marketing
+21 , Karan , 33 , Male  , Delhi , 55000        , 2019-09-09, IT
+22 , Preeti, 27 , Female, Mumbai, 46000        , 2020-07-07, HR
+23 , Sunil , 40 , Male  , Bhopal, 70000        , 2016-12-12, Management
+24 , Anjali, 25 , Female, Indore, 32000        , 2022-08-08, Sales
+25 , Sameer, 29 , Male  , Delhi , 48000        , 2021-04-04, Finance
+26 , Tina  , 24 , Female, Mumbai, 31000        , 2023-02-02, Marketing
+27 , Rakesh, 37 , Male  , Bhopal, 65000        , 2017-01-01, IT
+28 , Shreya, 28 , Female, Indore, 42000        , 2020-10-10, HR
+29 , Ajay  , 31 , Male  , Delhi , 53000        , 2019-06-06, Finance
+30 , Priya , 26 , Female, Mumbai, 40000        , 2021-03-03, Sales
+31 ,       , 29 , Male  , Bhopal, 45000        , 2020-09-09, IT
+32 , Geeta , 27 , Female, Indore, 39000        , 2021-07-07, HR
+33 , Mahesh, 36 , Male  , Delhi , 61000        , 2018-05-05, Finance
+34 , Rekha , 28 , Female, Mumbai, 47000        , 2020-04-04, Marketing
+35 , Om    , 42 , Male  , Bhopal, 72000        , 2016-03-03, Management
+36 , Divya , 25 , Female, Indore, 33000        , 2022-11-11, Sales
+37 , Raj   , 30 , Male  , Delhi , 50000        , 2019-12-12, IT
+38 , Neelam, 27 , Female, Mumbai, 42000        , 2021-01-01, HR
+39 , Sachin, 34 , Male  , Bhopal, 58000        , 2018-08-08, Finance
+40 , Kiran , 29 , Female, Indore, 45000        , 2020-06-06, Marketing
+...

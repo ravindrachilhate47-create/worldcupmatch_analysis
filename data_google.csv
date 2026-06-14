@@ -1,0 +1,51 @@
+id, full_name        , email                , age, city      , signup_date, payment_amount, status
+ 1, aarav SHARMA     , aarav.s@email.com    ,  28, Delhi     , 2023-01-15 , $1200.50      , Active
+ 2, Priya patel      , priya.p12@gmail.com  ,  32, Mumbai    , 05/12/2023 , $ 950.00      , active
+ 3, ROHAN VERMA      ,                      ,  24, bangalore , 2023.06.20 , $1            , 500.00   , Pending
+ 4, sneha kapoor     , sneha.k@yahoo.com    ,    , Delhi     , 2023-08-10 , $2200         , ACTIVE
+ 5, ARJUN SINGH      , arjun.s@email.com    ,  45, CHENNAI   , 12-10-2023 , $3100.25      , Cancelled
+ 6, Anjali Gupta     , anjali.g@email.com   ,  29, mumbai    , 2023/09/15 ,               , Active
+ 7, rohan verma      ,                      ,  24, bangalore , 2023.06.20 , $1            , 500.00   , Pending
+ 8, ISHaan MeHta     , ishaan.m@email.com   ,  31, Pune      , 2023-02-28 , $1800.75      , active
+ 9, Kriti Sanon      , kriti.s@gmail.com    ,  27,           , 2023-11-05 , $ 2           , 400      , Pending
+10, VIKRAM RATHORE   , vikram.r@email.com   ,  40, Jaipur    , 15-01-2024 , $5000.00      , Success
+11, tanvi SHAH       , tanvi.s@email.com    ,    , Ahmedabad , 2023-03-12 , $1100.50      , Active
+12, Aditya MalhotrA  , aditya.m@outlook.com ,  35, DELHI     , 2023-07-19 , $ 900         , active
+13, neha dhupia      , neha.d@email.com     ,  33, mumbai    , 2023-10-21 , $1            , 250.60   , 
+14, Karan Johar      , karan.j@gmail.com    ,  48, Mumbai    , 2023-05-30 , $4500.00      , Active
+15, SARA KHAN        , sara.k@email.com     ,  22, Lucknow   ,            , $800.00       , Pending
+16, aarav SHARMA     , aarav.s@email.com    ,  28, Delhi     , 2023-01-15 , $1200.50      , Active
+17, Rahul Dravid     , rahul.d@cricket.com  ,  50, Bangalore , 2023-12-01 , $10000        , Active
+18, Simran Kaur      , simran.k@email.com   ,    , pune      , 2023-04-14 , $ 1350.25     , active
+19, Varun Dhawan     , varun.d@gmail.com    ,  34, Mumbai    , 25/12/2023 ,               , Pending
+20, kiara ADVANI     , kiara.a@email.com    ,  31, Delhi     , 2023.08.22 , $2            , 900.00   , Active
+21, manish malhotra  , manish.m@fashion.com ,  55, Delhi     , 2023-11-11 , $5500.00      , Active
+22, ALIA BHATT       , alia.b@gmail.com     ,  30, Mumbai    , 2023-03-15 , $ 4200        , ACTIVE
+23, sidharth Malhotra, sid.m@email.com      ,  38, Delhi     , 01-01-2024 , $3800.50      , Active
+24, Pooja Hegde      , pooja.h@email.com    ,  29, HYDERABAD ,            , $2100.00      , pending
+25, Kartik Aaryan    , kartik.a@gmail.com   ,    , Bhopal    , 2023-06-18 , $ 1           , 750      , Active
+26, Deepika P        , deepika.p@email.com  ,  37, Bangalore , 2023-09-09 , $9000.00      , Active
+27, Ranveer S        , ranveer.s@gmail.com  ,  38, Mumbai    , 10/10/2023 , $8500.25      , active
+28, vicky Kaushal    , vicky.k@email.com    ,  35, mumbai    , 2023-05-05 , $3200.00      , 
+29, Katrina K        , kat.k@email.com      ,  40, London    , 2023-07-20 , $4000.00      , Active
+30, Ayushmann K      , ayush.k@email.com    ,  39, Chandigarh, 2023-02-14 , $2600.75      , Pending
+31, Rajkummar Rao    , raj.r@gmail.com      ,  39, Gurgaon   , 2023-11-30 , $3100.00      , Active
+32, Shraddha K       , shraddha.k@email.com ,  36, Mumbai    ,            , $2800.50      , Active
+33, Tiger Shroff     , tiger.s@gym.com      ,  33, Noida     , 2023-04-25 , $ 2           , 200.00   , active
+34, Kriti S          , kriti.s@gmail.com    ,  27,           , 2023-11-05 , $ 2           , 400      , Pending
+35, Hardik Pandya    , hardik.p@cricket.com ,  30, Baroda    , 2023-10-10 , $7000.00      , Active
+36, Rashmika M       , rashu@email.com      ,  27, Bangalore , 2023-05-15 , $3500.00      , Success
+37, Vijay D          , vijay.d@email.com    ,  34, Hyderabad , 20/08/2023 , $4100.00      , active
+38, Tamannaah B      , tammy@email.com      ,    , Mumbai    , 2023-01-01 , $2900.00      , Pending
+39, John Abraham     , john.a@fitness.com   ,  51, Mumbai    , 2023-06-12 , $6000.00      , Active
+40, Bipasha B        , bips@email.com       ,  45, Kolkata   , 2023-03-22 , $3400.50      , 
+41, Sunny Deol       , sunny.d@dhaba.com    ,  66, Punjab    , 2023-12-12 , $9999.99      , ACTIVE
+42, Bobby Deol       , bobby.d@email.com    ,  55, Mumbai    , 2024-01-10 , $4400.00      , Active
+43, Riteish D        , ritesh.d@email.com   ,  45, Latur     , 2023-09-02 , $1800.00      , pending
+44, Genelia D        , gene.d@email.com     ,  36, Mumbai    , 02-09-2023 , $1800.00      , Active
+45, Pankaj Tripathi  , pankaj.t@mirzapur.com,  47, Benaras   , 2023-11-20 , $5000.00      , Active
+46, Nawazuddin S     , nawaz.s@actor.com    ,  49, Mumbai    , 2023-08-15 , $4800.50      , active
+47, Manoj Bajpayee   , manoj.b@family.com   ,  54, Delhi     , 2023-04-10 , $5200.00      , Active
+48, Rajpal Yadav     , rajpal.y@comedy.com  ,  52, Mumbai    , 2023-02-20 , $1200.00      , Pending
+49, Johnny Lever     , johnny.l@email.com   ,  66, Mumbai    , 2023-07-07 , $2500.00      , Active
+50, Paresh Rawal     , baburao@email.com    ,  68, Mumbai    , 2023-05-01 , $3000.00      , Active
